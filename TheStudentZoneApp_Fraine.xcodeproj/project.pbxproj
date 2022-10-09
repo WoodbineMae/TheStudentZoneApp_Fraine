@@ -17,6 +17,31 @@
 		21E19C0F28F00E2C00A68AEF /* TheStudentZoneApp_FraineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C0E28F00E2C00A68AEF /* TheStudentZoneApp_FraineTests.swift */; };
 		21E19C1928F00E2C00A68AEF /* TheStudentZoneApp_FraineUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C1828F00E2C00A68AEF /* TheStudentZoneApp_FraineUITests.swift */; };
 		21E19C1B28F00E2C00A68AEF /* TheStudentZoneApp_FraineUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C1A28F00E2C00A68AEF /* TheStudentZoneApp_FraineUITestsLaunchTests.swift */; };
+		21E19C2828F2A93700A68AEF /* Viewcontroller1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2728F2A93700A68AEF /* Viewcontroller1.swift */; };
+		21E19C2A28F2A94D00A68AEF /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2928F2A94D00A68AEF /* ViewController2.swift */; };
+		21E19C2B28F2A94D00A68AEF /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2928F2A94D00A68AEF /* ViewController2.swift */; };
+		21E19C2C28F2A94D00A68AEF /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2928F2A94D00A68AEF /* ViewController2.swift */; };
+		21E19C2E28F2A95900A68AEF /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2D28F2A95900A68AEF /* ViewController3.swift */; };
+		21E19C2F28F2A95900A68AEF /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2D28F2A95900A68AEF /* ViewController3.swift */; };
+		21E19C3028F2A95900A68AEF /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C2D28F2A95900A68AEF /* ViewController3.swift */; };
+		21E19C3228F2A96500A68AEF /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3128F2A96500A68AEF /* ViewController4.swift */; };
+		21E19C3328F2A96500A68AEF /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3128F2A96500A68AEF /* ViewController4.swift */; };
+		21E19C3428F2A96500A68AEF /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3128F2A96500A68AEF /* ViewController4.swift */; };
+		21E19C3628F2A9B700A68AEF /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3528F2A9B700A68AEF /* ViewController5.swift */; };
+		21E19C3728F2A9B700A68AEF /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3528F2A9B700A68AEF /* ViewController5.swift */; };
+		21E19C3828F2A9B700A68AEF /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3528F2A9B700A68AEF /* ViewController5.swift */; };
+		21E19C3A28F2A9C900A68AEF /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3928F2A9C900A68AEF /* ViewController6.swift */; };
+		21E19C3B28F2A9C900A68AEF /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3928F2A9C900A68AEF /* ViewController6.swift */; };
+		21E19C3C28F2A9C900A68AEF /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3928F2A9C900A68AEF /* ViewController6.swift */; };
+		21E19C3E28F2A9D500A68AEF /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3D28F2A9D500A68AEF /* ViewController7.swift */; };
+		21E19C3F28F2A9D500A68AEF /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3D28F2A9D500A68AEF /* ViewController7.swift */; };
+		21E19C4028F2A9D500A68AEF /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C3D28F2A9D500A68AEF /* ViewController7.swift */; };
+		21E19C4228F2A9F500A68AEF /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C4128F2A9F500A68AEF /* ViewController8.swift */; };
+		21E19C4328F2A9F500A68AEF /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C4128F2A9F500A68AEF /* ViewController8.swift */; };
+		21E19C4428F2A9F500A68AEF /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C4128F2A9F500A68AEF /* ViewController8.swift */; };
+		21E19C4628F2AA0200A68AEF /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C4528F2AA0200A68AEF /* ViewController9.swift */; };
+		21E19C4728F2AA0200A68AEF /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C4528F2AA0200A68AEF /* ViewController9.swift */; };
+		21E19C4828F2AA0200A68AEF /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19C4528F2AA0200A68AEF /* ViewController9.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +76,15 @@
 		21E19C1428F00E2C00A68AEF /* TheStudentZoneApp_FraineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheStudentZoneApp_FraineUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21E19C1828F00E2C00A68AEF /* TheStudentZoneApp_FraineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheStudentZoneApp_FraineUITests.swift; sourceTree = "<group>"; };
 		21E19C1A28F00E2C00A68AEF /* TheStudentZoneApp_FraineUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheStudentZoneApp_FraineUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		21E19C2728F2A93700A68AEF /* Viewcontroller1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Viewcontroller1.swift; sourceTree = "<group>"; };
+		21E19C2928F2A94D00A68AEF /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		21E19C2D28F2A95900A68AEF /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		21E19C3128F2A96500A68AEF /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		21E19C3528F2A9B700A68AEF /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		21E19C3928F2A9C900A68AEF /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		21E19C3D28F2A9D500A68AEF /* ViewController7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
+		21E19C4128F2A9F500A68AEF /* ViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
+		21E19C4528F2AA0200A68AEF /* ViewController9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController9.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,10 +138,19 @@
 				21E19BF428F00E2900A68AEF /* AppDelegate.swift */,
 				21E19BF628F00E2900A68AEF /* SceneDelegate.swift */,
 				21E19BF828F00E2900A68AEF /* ViewController.swift */,
+				21E19C2728F2A93700A68AEF /* Viewcontroller1.swift */,
+				21E19C2928F2A94D00A68AEF /* ViewController2.swift */,
+				21E19C2D28F2A95900A68AEF /* ViewController3.swift */,
+				21E19C3128F2A96500A68AEF /* ViewController4.swift */,
+				21E19C3528F2A9B700A68AEF /* ViewController5.swift */,
+				21E19C3928F2A9C900A68AEF /* ViewController6.swift */,
+				21E19C3D28F2A9D500A68AEF /* ViewController7.swift */,
+				21E19C4128F2A9F500A68AEF /* ViewController8.swift */,
+				21E19C4528F2AA0200A68AEF /* ViewController9.swift */,
 				21E19BFA28F00E2900A68AEF /* Main.storyboard */,
-				21E19C0028F00E2C00A68AEF /* Assets.xcassets */,
 				21E19C0228F00E2C00A68AEF /* LaunchScreen.storyboard */,
 				21E19C0528F00E2C00A68AEF /* Info.plist */,
+				21E19C0028F00E2C00A68AEF /* Assets.xcassets */,
 				21E19BFD28F00E2900A68AEF /* TheStudentZoneApp_Fraine.xcdatamodeld */,
 			);
 			path = TheStudentZoneApp_Fraine;
@@ -264,7 +307,16 @@
 				21E19BF928F00E2900A68AEF /* ViewController.swift in Sources */,
 				21E19BF528F00E2900A68AEF /* AppDelegate.swift in Sources */,
 				21E19BFF28F00E2900A68AEF /* TheStudentZoneApp_Fraine.xcdatamodeld in Sources */,
+				21E19C3A28F2A9C900A68AEF /* ViewController6.swift in Sources */,
+				21E19C3228F2A96500A68AEF /* ViewController4.swift in Sources */,
+				21E19C3628F2A9B700A68AEF /* ViewController5.swift in Sources */,
 				21E19BF728F00E2900A68AEF /* SceneDelegate.swift in Sources */,
+				21E19C3E28F2A9D500A68AEF /* ViewController7.swift in Sources */,
+				21E19C2828F2A93700A68AEF /* Viewcontroller1.swift in Sources */,
+				21E19C2E28F2A95900A68AEF /* ViewController3.swift in Sources */,
+				21E19C4628F2AA0200A68AEF /* ViewController9.swift in Sources */,
+				21E19C2A28F2A94D00A68AEF /* ViewController2.swift in Sources */,
+				21E19C4228F2A9F500A68AEF /* ViewController8.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +324,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21E19C3F28F2A9D500A68AEF /* ViewController7.swift in Sources */,
 				21E19C0F28F00E2C00A68AEF /* TheStudentZoneApp_FraineTests.swift in Sources */,
+				21E19C2B28F2A94D00A68AEF /* ViewController2.swift in Sources */,
+				21E19C2F28F2A95900A68AEF /* ViewController3.swift in Sources */,
+				21E19C3B28F2A9C900A68AEF /* ViewController6.swift in Sources */,
+				21E19C3328F2A96500A68AEF /* ViewController4.swift in Sources */,
+				21E19C3728F2A9B700A68AEF /* ViewController5.swift in Sources */,
+				21E19C4328F2A9F500A68AEF /* ViewController8.swift in Sources */,
+				21E19C4728F2AA0200A68AEF /* ViewController9.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +342,14 @@
 			files = (
 				21E19C1928F00E2C00A68AEF /* TheStudentZoneApp_FraineUITests.swift in Sources */,
 				21E19C1B28F00E2C00A68AEF /* TheStudentZoneApp_FraineUITestsLaunchTests.swift in Sources */,
+				21E19C4828F2AA0200A68AEF /* ViewController9.swift in Sources */,
+				21E19C3C28F2A9C900A68AEF /* ViewController6.swift in Sources */,
+				21E19C3028F2A95900A68AEF /* ViewController3.swift in Sources */,
+				21E19C2C28F2A94D00A68AEF /* ViewController2.swift in Sources */,
+				21E19C3828F2A9B700A68AEF /* ViewController5.swift in Sources */,
+				21E19C4028F2A9D500A68AEF /* ViewController7.swift in Sources */,
+				21E19C3428F2A96500A68AEF /* ViewController4.swift in Sources */,
+				21E19C4428F2A9F500A68AEF /* ViewController8.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
