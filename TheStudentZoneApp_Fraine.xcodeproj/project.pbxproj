@@ -95,8 +95,45 @@
 		2179188D29389E7D006BB2E2 /* ViewController40.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179188B29389E7D006BB2E2 /* ViewController40.swift */; };
 		2179188E29389E7D006BB2E2 /* ViewController40.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179188B29389E7D006BB2E2 /* ViewController40.swift */; };
 		2179189029389E8A006BB2E2 /* ViewController41.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179188F29389E8A006BB2E2 /* ViewController41.swift */; };
-		2179189129389E8A006BB2E2 /* ViewController41.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179188F29389E8A006BB2E2 /* ViewController41.swift */; };
-		2179189229389E8A006BB2E2 /* ViewController41.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179188F29389E8A006BB2E2 /* ViewController41.swift */; };
+		217ACD0E293E9D7E00778FF7 /* ViewController31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD0D293E9D7E00778FF7 /* ViewController31.swift */; };
+		217ACD10293E9E0B00778FF7 /* ViewController42.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD0F293E9E0B00778FF7 /* ViewController42.swift */; };
+		217ACD11293E9E0B00778FF7 /* ViewController42.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD0F293E9E0B00778FF7 /* ViewController42.swift */; };
+		217ACD12293E9E0B00778FF7 /* ViewController42.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD0F293E9E0B00778FF7 /* ViewController42.swift */; };
+		217ACD14293E9E2700778FF7 /* ViewController43.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD13293E9E2700778FF7 /* ViewController43.swift */; };
+		217ACD15293E9E2700778FF7 /* ViewController43.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD13293E9E2700778FF7 /* ViewController43.swift */; };
+		217ACD16293E9E2700778FF7 /* ViewController43.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD13293E9E2700778FF7 /* ViewController43.swift */; };
+		217ACD18293E9E3F00778FF7 /* ViewController44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD17293E9E3F00778FF7 /* ViewController44.swift */; };
+		217ACD19293E9E3F00778FF7 /* ViewController44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD17293E9E3F00778FF7 /* ViewController44.swift */; };
+		217ACD1A293E9E3F00778FF7 /* ViewController44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD17293E9E3F00778FF7 /* ViewController44.swift */; };
+		217ACD1C293E9E5200778FF7 /* ViewController45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD1B293E9E5200778FF7 /* ViewController45.swift */; };
+		217ACD1D293E9E5200778FF7 /* ViewController45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD1B293E9E5200778FF7 /* ViewController45.swift */; };
+		217ACD1E293E9E5200778FF7 /* ViewController45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD1B293E9E5200778FF7 /* ViewController45.swift */; };
+		217ACD20293E9E7000778FF7 /* ViewController46.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD1F293E9E7000778FF7 /* ViewController46.swift */; };
+		217ACD21293E9E7000778FF7 /* ViewController46.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD1F293E9E7000778FF7 /* ViewController46.swift */; };
+		217ACD22293E9E7000778FF7 /* ViewController46.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD1F293E9E7000778FF7 /* ViewController46.swift */; };
+		217ACD24293E9E9000778FF7 /* ViewController47.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD23293E9E9000778FF7 /* ViewController47.swift */; };
+		217ACD25293E9E9000778FF7 /* ViewController47.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD23293E9E9000778FF7 /* ViewController47.swift */; };
+		217ACD26293E9E9000778FF7 /* ViewController47.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD23293E9E9000778FF7 /* ViewController47.swift */; };
+		217ACD28293E9EA500778FF7 /* ViewController48.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD27293E9EA500778FF7 /* ViewController48.swift */; };
+		217ACD29293E9EA500778FF7 /* ViewController48.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD27293E9EA500778FF7 /* ViewController48.swift */; };
+		217ACD2A293E9EA500778FF7 /* ViewController48.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD27293E9EA500778FF7 /* ViewController48.swift */; };
+		217ACD2C293E9EBB00778FF7 /* ViewController49.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD2B293E9EBB00778FF7 /* ViewController49.swift */; };
+		217ACD2D293E9EBB00778FF7 /* ViewController49.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD2B293E9EBB00778FF7 /* ViewController49.swift */; };
+		217ACD2E293E9EBB00778FF7 /* ViewController49.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD2B293E9EBB00778FF7 /* ViewController49.swift */; };
+		217ACD30293E9ED500778FF7 /* ViewController50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD2F293E9ED500778FF7 /* ViewController50.swift */; };
+		217ACD31293E9ED500778FF7 /* ViewController50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD2F293E9ED500778FF7 /* ViewController50.swift */; };
+		217ACD32293E9ED500778FF7 /* ViewController50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD2F293E9ED500778FF7 /* ViewController50.swift */; };
+		217ACD34293E9EE900778FF7 /* ViewController51.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD33293E9EE900778FF7 /* ViewController51.swift */; };
+		217ACD35293E9EE900778FF7 /* ViewController51.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD33293E9EE900778FF7 /* ViewController51.swift */; };
+		217ACD36293E9EE900778FF7 /* ViewController51.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD33293E9EE900778FF7 /* ViewController51.swift */; };
+		217ACD39293F3E5100778FF7 /* ViewController52.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD38293F3E5100778FF7 /* ViewController52.swift */; };
+		217ACD3B293F3E6400778FF7 /* ViewController53.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD3A293F3E6400778FF7 /* ViewController53.swift */; };
+		217ACD3D293F3E7800778FF7 /* ViewController54.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD3C293F3E7800778FF7 /* ViewController54.swift */; };
+		217ACD3F293F3E9700778FF7 /* ViewController55.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD3E293F3E9700778FF7 /* ViewController55.swift */; };
+		217ACD41293F3EAA00778FF7 /* ViewController56.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD40293F3EAA00778FF7 /* ViewController56.swift */; };
+		217ACD43293F40CE00778FF7 /* ViewController57.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD42293F40CE00778FF7 /* ViewController57.swift */; };
+		217ACD45293F4EDE00778FF7 /* ViewController59.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD44293F4EDE00778FF7 /* ViewController59.swift */; };
+		217ACD47293F505200778FF7 /* ViewController60.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217ACD46293F505200778FF7 /* ViewController60.swift */; };
 		21E19BF528F00E2900A68AEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19BF428F00E2900A68AEF /* AppDelegate.swift */; };
 		21E19BF728F00E2900A68AEF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19BF628F00E2900A68AEF /* SceneDelegate.swift */; };
 		21E19BF928F00E2900A68AEF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E19BF828F00E2900A68AEF /* ViewController.swift */; };
@@ -184,6 +221,25 @@
 		2179188729389E6A006BB2E2 /* ViewController39.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController39.swift; sourceTree = "<group>"; };
 		2179188B29389E7D006BB2E2 /* ViewController40.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController40.swift; sourceTree = "<group>"; };
 		2179188F29389E8A006BB2E2 /* ViewController41.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController41.swift; sourceTree = "<group>"; };
+		217ACD0D293E9D7E00778FF7 /* ViewController31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController31.swift; path = TheStudentZoneApp_Fraine/ViewController31.swift; sourceTree = SOURCE_ROOT; };
+		217ACD0F293E9E0B00778FF7 /* ViewController42.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController42.swift; sourceTree = "<group>"; };
+		217ACD13293E9E2700778FF7 /* ViewController43.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController43.swift; sourceTree = "<group>"; };
+		217ACD17293E9E3F00778FF7 /* ViewController44.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController44.swift; sourceTree = "<group>"; };
+		217ACD1B293E9E5200778FF7 /* ViewController45.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController45.swift; sourceTree = "<group>"; };
+		217ACD1F293E9E7000778FF7 /* ViewController46.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController46.swift; sourceTree = "<group>"; };
+		217ACD23293E9E9000778FF7 /* ViewController47.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController47.swift; sourceTree = "<group>"; };
+		217ACD27293E9EA500778FF7 /* ViewController48.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController48.swift; sourceTree = "<group>"; };
+		217ACD2B293E9EBB00778FF7 /* ViewController49.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController49.swift; sourceTree = "<group>"; };
+		217ACD2F293E9ED500778FF7 /* ViewController50.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController50.swift; sourceTree = "<group>"; };
+		217ACD33293E9EE900778FF7 /* ViewController51.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController51.swift; sourceTree = "<group>"; };
+		217ACD38293F3E5100778FF7 /* ViewController52.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController52.swift; sourceTree = "<group>"; };
+		217ACD3A293F3E6400778FF7 /* ViewController53.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController53.swift; sourceTree = "<group>"; };
+		217ACD3C293F3E7800778FF7 /* ViewController54.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController54.swift; sourceTree = "<group>"; };
+		217ACD3E293F3E9700778FF7 /* ViewController55.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController55.swift; sourceTree = "<group>"; };
+		217ACD40293F3EAA00778FF7 /* ViewController56.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController56.swift; sourceTree = "<group>"; };
+		217ACD42293F40CE00778FF7 /* ViewController57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController57.swift; sourceTree = "<group>"; };
+		217ACD44293F4EDE00778FF7 /* ViewController59.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController59.swift; sourceTree = "<group>"; };
+		217ACD46293F505200778FF7 /* ViewController60.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController60.swift; sourceTree = "<group>"; };
 		21E19BF128F00E2900A68AEF /* TheStudentZoneApp_Fraine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheStudentZoneApp_Fraine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21E19BF428F00E2900A68AEF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21E19BF628F00E2900A68AEF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -283,6 +339,8 @@
 				2179185729389B81006BB2E2 /* ViewController28.swift */,
 				2179185B29389B91006BB2E2 /* ViewController29.swift */,
 				2179185F29389BA6006BB2E2 /* ViewController30.swift */,
+				217ACD0D293E9D7E00778FF7 /* ViewController31.swift */,
+				217ACD37293E9EFC00778FF7 /* views41-50 */,
 			);
 			path = "Views21-30";
 			sourceTree = "<group>";
@@ -302,6 +360,23 @@
 				2179188B29389E7D006BB2E2 /* ViewController40.swift */,
 			);
 			path = "View31-40";
+			sourceTree = "<group>";
+		};
+		217ACD37293E9EFC00778FF7 /* views41-50 */ = {
+			isa = PBXGroup;
+			children = (
+				2179188F29389E8A006BB2E2 /* ViewController41.swift */,
+				217ACD0F293E9E0B00778FF7 /* ViewController42.swift */,
+				217ACD13293E9E2700778FF7 /* ViewController43.swift */,
+				217ACD17293E9E3F00778FF7 /* ViewController44.swift */,
+				217ACD1B293E9E5200778FF7 /* ViewController45.swift */,
+				217ACD1F293E9E7000778FF7 /* ViewController46.swift */,
+				217ACD23293E9E9000778FF7 /* ViewController47.swift */,
+				217ACD27293E9EA500778FF7 /* ViewController48.swift */,
+				217ACD2B293E9EBB00778FF7 /* ViewController49.swift */,
+				217ACD2F293E9ED500778FF7 /* ViewController50.swift */,
+			);
+			path = "views41-50";
 			sourceTree = "<group>";
 		};
 		21E19BE828F00E2900A68AEF = {
@@ -329,7 +404,15 @@
 			children = (
 				21E19BF428F00E2900A68AEF /* AppDelegate.swift */,
 				21E19BF628F00E2900A68AEF /* SceneDelegate.swift */,
-				2179188F29389E8A006BB2E2 /* ViewController41.swift */,
+				217ACD33293E9EE900778FF7 /* ViewController51.swift */,
+				217ACD38293F3E5100778FF7 /* ViewController52.swift */,
+				217ACD3A293F3E6400778FF7 /* ViewController53.swift */,
+				217ACD3C293F3E7800778FF7 /* ViewController54.swift */,
+				217ACD3E293F3E9700778FF7 /* ViewController55.swift */,
+				217ACD40293F3EAA00778FF7 /* ViewController56.swift */,
+				217ACD42293F40CE00778FF7 /* ViewController57.swift */,
+				217ACD46293F505200778FF7 /* ViewController60.swift */,
+				217ACD44293F4EDE00778FF7 /* ViewController59.swift */,
 				2179186429389C00006BB2E2 /* Nviews1-10oup */,
 				2179186529389C4D006BB2E2 /* VViews11-20 */,
 				2179186629389DA0006BB2E2 /* Views21-30 */,
@@ -491,26 +574,40 @@
 			buildActionMask = 2147483647;
 			files = (
 				2179183429389256006BB2E2 /* ViewController19.swift in Sources */,
+				217ACD45293F4EDE00778FF7 /* ViewController59.swift in Sources */,
 				21E19BF928F00E2900A68AEF /* ViewController.swift in Sources */,
 				21791814293891B9006BB2E2 /* ViewController10.swift in Sources */,
+				217ACD41293F3EAA00778FF7 /* ViewController56.swift in Sources */,
 				2179189029389E8A006BB2E2 /* ViewController41.swift in Sources */,
+				217ACD0E293E9D7E00778FF7 /* ViewController31.swift in Sources */,
 				2179185C29389B91006BB2E2 /* ViewController29.swift in Sources */,
 				21E19BF528F00E2900A68AEF /* AppDelegate.swift in Sources */,
+				217ACD20293E9E7000778FF7 /* ViewController46.swift in Sources */,
+				217ACD14293E9E2700778FF7 /* ViewController43.swift in Sources */,
 				2179186C29389DF5006BB2E2 /* ViewController32.swift in Sources */,
 				2179184029389B17006BB2E2 /* ViewController22.swift in Sources */,
 				21791818293891E1006BB2E2 /* ViewController12.swift in Sources */,
+				217ACD39293F3E5100778FF7 /* ViewController52.swift in Sources */,
 				2179187829389E21006BB2E2 /* ViewController35.swift in Sources */,
 				2179187C29389E2E006BB2E2 /* ViewController36.swift in Sources */,
+				217ACD10293E9E0B00778FF7 /* ViewController42.swift in Sources */,
 				21E19BFF28F00E2900A68AEF /* TheStudentZoneApp_Fraine.xcdatamodeld in Sources */,
+				217ACD28293E9EA500778FF7 /* ViewController48.swift in Sources */,
 				2179184C29389B4D006BB2E2 /* ViewController25.swift in Sources */,
 				2179186829389DD3006BB2E2 /* ViewController31.swift in Sources */,
+				217ACD47293F505200778FF7 /* ViewController60.swift in Sources */,
+				217ACD2C293E9EBB00778FF7 /* ViewController49.swift in Sources */,
 				2179182429389217006BB2E2 /* ViewController15.swift in Sources */,
 				21E19C3A28F2A9C900A68AEF /* ViewController6.swift in Sources */,
+				217ACD34293E9EE900778FF7 /* ViewController51.swift in Sources */,
+				217ACD3D293F3E7800778FF7 /* ViewController54.swift in Sources */,
+				217ACD43293F40CE00778FF7 /* ViewController57.swift in Sources */,
 				21791816293891CD006BB2E2 /* ViewController11.swift in Sources */,
 				2179182C29389236006BB2E2 /* ViewController17.swift in Sources */,
 				21E19C3228F2A96500A68AEF /* ViewController4.swift in Sources */,
 				21E19C3628F2A9B700A68AEF /* ViewController5.swift in Sources */,
 				21E19BF728F00E2900A68AEF /* SceneDelegate.swift in Sources */,
+				217ACD18293E9E3F00778FF7 /* ViewController44.swift in Sources */,
 				2179188C29389E7D006BB2E2 /* ViewController40.swift in Sources */,
 				21E19C3E28F2A9D500A68AEF /* ViewController7.swift in Sources */,
 				2179187429389E11006BB2E2 /* ViewController34.swift in Sources */,
@@ -522,15 +619,20 @@
 				2179184829389B39006BB2E2 /* ViewController24.swift in Sources */,
 				2179188029389E3C006BB2E2 /* ViewController37.swift in Sources */,
 				2179184429389B28006BB2E2 /* ViewController23.swift in Sources */,
+				217ACD30293E9ED500778FF7 /* ViewController50.swift in Sources */,
 				21E19C2E28F2A95900A68AEF /* ViewController3.swift in Sources */,
 				2179182829389227006BB2E2 /* ViewController16.swift in Sources */,
 				2179183829389269006BB2E2 /* ViewController20.swift in Sources */,
+				217ACD1C293E9E5200778FF7 /* ViewController45.swift in Sources */,
 				2179185029389B5D006BB2E2 /* ViewController26.swift in Sources */,
 				2179187029389E02006BB2E2 /* ViewController33.swift in Sources */,
 				2179185829389B81006BB2E2 /* ViewController28.swift in Sources */,
 				21E19C4628F2AA0200A68AEF /* ViewController9.swift in Sources */,
 				21E19C2A28F2A94D00A68AEF /* ViewController2.swift in Sources */,
 				2179183029389246006BB2E2 /* ViewController18.swift in Sources */,
+				217ACD3B293F3E6400778FF7 /* ViewController53.swift in Sources */,
+				217ACD3F293F3E9700778FF7 /* ViewController55.swift in Sources */,
+				217ACD24293E9E9000778FF7 /* ViewController47.swift in Sources */,
 				2179186029389BA6006BB2E2 /* ViewController30.swift in Sources */,
 				2179188829389E6A006BB2E2 /* ViewController39.swift in Sources */,
 				2179181C293891F6006BB2E2 /* ViewController13.swift in Sources */,
@@ -542,13 +644,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				217ACD29293E9EA500778FF7 /* ViewController48.swift in Sources */,
+				217ACD19293E9E3F00778FF7 /* ViewController44.swift in Sources */,
+				217ACD1D293E9E5200778FF7 /* ViewController45.swift in Sources */,
 				2179185129389B5D006BB2E2 /* ViewController26.swift in Sources */,
 				2179183529389256006BB2E2 /* ViewController19.swift in Sources */,
 				2179188529389E4C006BB2E2 /* ViewController38.swift in Sources */,
-				2179189129389E8A006BB2E2 /* ViewController41.swift in Sources */,
 				2179188D29389E7D006BB2E2 /* ViewController40.swift in Sources */,
+				217ACD15293E9E2700778FF7 /* ViewController43.swift in Sources */,
 				21E19C3F28F2A9D500A68AEF /* ViewController7.swift in Sources */,
 				2179185D29389B91006BB2E2 /* ViewController29.swift in Sources */,
+				217ACD2D293E9EBB00778FF7 /* ViewController49.swift in Sources */,
 				2179187529389E11006BB2E2 /* ViewController34.swift in Sources */,
 				21E19C0F28F00E2C00A68AEF /* TheStudentZoneApp_FraineTests.swift in Sources */,
 				2179186D29389DF5006BB2E2 /* ViewController32.swift in Sources */,
@@ -560,6 +666,7 @@
 				2179182129389206006BB2E2 /* ViewController14.swift in Sources */,
 				2179187D29389E2E006BB2E2 /* ViewController36.swift in Sources */,
 				2179184129389B17006BB2E2 /* ViewController22.swift in Sources */,
+				217ACD35293E9EE900778FF7 /* ViewController51.swift in Sources */,
 				2179185929389B81006BB2E2 /* ViewController28.swift in Sources */,
 				2179184529389B28006BB2E2 /* ViewController23.swift in Sources */,
 				2179184929389B39006BB2E2 /* ViewController24.swift in Sources */,
@@ -567,6 +674,8 @@
 				21E19C3328F2A96500A68AEF /* ViewController4.swift in Sources */,
 				21E19C3728F2A9B700A68AEF /* ViewController5.swift in Sources */,
 				2179183129389246006BB2E2 /* ViewController18.swift in Sources */,
+				217ACD11293E9E0B00778FF7 /* ViewController42.swift in Sources */,
+				217ACD21293E9E7000778FF7 /* ViewController46.swift in Sources */,
 				2179188129389E3C006BB2E2 /* ViewController37.swift in Sources */,
 				2179182529389217006BB2E2 /* ViewController15.swift in Sources */,
 				2179183929389269006BB2E2 /* ViewController20.swift in Sources */,
@@ -578,6 +687,8 @@
 				21E19C4728F2AA0200A68AEF /* ViewController9.swift in Sources */,
 				21791819293891E1006BB2E2 /* ViewController12.swift in Sources */,
 				2179182929389227006BB2E2 /* ViewController16.swift in Sources */,
+				217ACD25293E9E9000778FF7 /* ViewController47.swift in Sources */,
+				217ACD31293E9ED500778FF7 /* ViewController50.swift in Sources */,
 				2179182D29389236006BB2E2 /* ViewController17.swift in Sources */,
 				2179184D29389B4D006BB2E2 /* ViewController25.swift in Sources */,
 			);
@@ -592,9 +703,11 @@
 				2179181E293891F6006BB2E2 /* ViewController13.swift in Sources */,
 				21E19C1928F00E2C00A68AEF /* TheStudentZoneApp_FraineUITests.swift in Sources */,
 				2179181A293891E1006BB2E2 /* ViewController12.swift in Sources */,
+				217ACD1E293E9E5200778FF7 /* ViewController45.swift in Sources */,
 				2179183A29389269006BB2E2 /* ViewController20.swift in Sources */,
 				21E19C1B28F00E2C00A68AEF /* TheStudentZoneApp_FraineUITestsLaunchTests.swift in Sources */,
 				2179185E29389B91006BB2E2 /* ViewController29.swift in Sources */,
+				217ACD32293E9ED500778FF7 /* ViewController50.swift in Sources */,
 				2179182629389217006BB2E2 /* ViewController15.swift in Sources */,
 				2179184E29389B4D006BB2E2 /* ViewController25.swift in Sources */,
 				2179188A29389E6A006BB2E2 /* ViewController39.swift in Sources */,
@@ -602,14 +715,19 @@
 				2179185629389B6E006BB2E2 /* ViewController27.swift in Sources */,
 				2179185229389B5D006BB2E2 /* ViewController26.swift in Sources */,
 				2179184229389B17006BB2E2 /* ViewController22.swift in Sources */,
-				2179189229389E8A006BB2E2 /* ViewController41.swift in Sources */,
+				217ACD1A293E9E3F00778FF7 /* ViewController44.swift in Sources */,
+				217ACD2E293E9EBB00778FF7 /* ViewController49.swift in Sources */,
 				21E19C4828F2AA0200A68AEF /* ViewController9.swift in Sources */,
 				21E19C3C28F2A9C900A68AEF /* ViewController6.swift in Sources */,
+				217ACD26293E9E9000778FF7 /* ViewController47.swift in Sources */,
+				217ACD36293E9EE900778FF7 /* ViewController51.swift in Sources */,
 				2179182E29389236006BB2E2 /* ViewController17.swift in Sources */,
 				21E19C3028F2A95900A68AEF /* ViewController3.swift in Sources */,
 				21E19C2C28F2A94D00A68AEF /* ViewController2.swift in Sources */,
 				2179188E29389E7D006BB2E2 /* ViewController40.swift in Sources */,
+				217ACD22293E9E7000778FF7 /* ViewController46.swift in Sources */,
 				2179187229389E02006BB2E2 /* ViewController33.swift in Sources */,
+				217ACD2A293E9EA500778FF7 /* ViewController48.swift in Sources */,
 				2179183229389246006BB2E2 /* ViewController18.swift in Sources */,
 				2179183629389256006BB2E2 /* ViewController19.swift in Sources */,
 				2179182229389206006BB2E2 /* ViewController14.swift in Sources */,
@@ -617,7 +735,9 @@
 				2179184A29389B39006BB2E2 /* ViewController24.swift in Sources */,
 				2179186E29389DF5006BB2E2 /* ViewController32.swift in Sources */,
 				21E19C3828F2A9B700A68AEF /* ViewController5.swift in Sources */,
+				217ACD12293E9E0B00778FF7 /* ViewController42.swift in Sources */,
 				21E19C4028F2A9D500A68AEF /* ViewController7.swift in Sources */,
+				217ACD16293E9E2700778FF7 /* ViewController43.swift in Sources */,
 				2179188229389E3C006BB2E2 /* ViewController37.swift in Sources */,
 				2179186229389BA6006BB2E2 /* ViewController30.swift in Sources */,
 				21E19C3428F2A96500A68AEF /* ViewController4.swift in Sources */,
